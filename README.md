@@ -15,7 +15,6 @@ This Python script organizes files in a specified directory based on their file 
 2. Open the `Organize.py` file and modify the `directory` variable to point to the folder you want to organize.
 3. Run the script using Python:
 
-python Organize.py
 
 
 ## Supported File Types
